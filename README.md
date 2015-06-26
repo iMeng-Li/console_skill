@@ -18,6 +18,28 @@
 ----------------
 
  上图上图，先上图~~
+ 
+ 不好意思，因为图片有点多所以放到下面了，点击查看~~
+
+
+### | 代码的console对象  
+----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### | 图在这里~~快看 
+----------------
 
 
 [![](http://i.niupic.com/images/2015/06/25/558baa87422a6.png)](http://mynameisblue.com)
@@ -39,25 +61,6 @@
 [![](http://i.niupic.com/images/2015/06/25/558baa97e0c56.png)](http://mynameisblue.com)
 
 [![](http://i.niupic.com/images/2015/06/25/558baa990067f.png)](http://mynameisblue.com)
-
-
-
-### | 代码的console对象  
-----------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
