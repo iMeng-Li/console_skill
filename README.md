@@ -25,8 +25,10 @@
 ### | 代码的console对象  
 ----------------
 
+console本是JavaScript的一个对象；旗下拥有许多方法，都是可以在控制台输出的，基本是用调试。
 
-
+console.log()这个就是我们常用的一个。
+console对象还有4种显示信息的方法，分别是一般信息console.info()、除错信息console.debug()、警告提示console.warn()、错误提示console.error()。
 
 
 
