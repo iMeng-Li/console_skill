@@ -1,4 +1,4 @@
- console_skill
+
 #谈谈前端控制台的一些杂事
 ------------------------------
 
@@ -31,6 +31,8 @@ console.log()这个就是我们常用的一个。
 console对象还有4种显示信息的方法，分别是一般信息console.info()、除错信息console.debug()、警告提示console.warn()、错误提示console.error()。
 
 
+
+如果再配合console.group 与console.groupEnd，可以将这种分类管理的思想发挥到极致。这适合于在开发一个规模很大模块很多很复杂的Web APP时，将各自的log信息分组到以各自命名空间为名称的组里面。
 
 
 
