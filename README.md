@@ -72,6 +72,8 @@ console对象还有4种显示信息的方法，分别是一般信息console.info
 ----------------
 
 http://www.yyyweb.com/3541.html
+  
 http://segmentfault.com/a/1190000000425386
+  
 http://www.cnblogs.com/Wayou/p/things_you_dont_know_about_frontend.html
 
