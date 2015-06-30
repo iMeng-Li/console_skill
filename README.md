@@ -30,6 +30,7 @@ console本是JavaScript的一个对象；旗下拥有许多方法，都是可以
 console.log()这个就是我们常用的一个。
 console对象还有4种显示信息的方法，分别是一般信息console.info()、除错信息console.debug()、警告提示console.warn()、错误提示console.error()。
 
+[![](http://m1.yea.im/Gu.png)](http://mynameisblue.com)
 
 
 如果再配合console.group 与console.groupEnd，可以将这种分类管理的思想发挥到极致。这适合于在开发一个规模很大模块很多很复杂的Web APP时，将各自的log信息分组到以各自命名空间为名称的组里面。
@@ -67,4 +68,10 @@ console对象还有4种显示信息的方法，分别是一般信息console.info
 [![](http://i.niupic.com/images/2015/06/25/558baa990067f.png)](http://mynameisblue.com)
 
 
+### | 参考参考
+----------------
+
+http://www.yyyweb.com/3541.html
+http://segmentfault.com/a/1190000000425386
+http://www.cnblogs.com/Wayou/p/things_you_dont_know_about_frontend.html
 
